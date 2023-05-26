@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/detecting vehicles project with micro service/micro_service_registration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eureka-discovery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grpc_radar_client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/micro-service-Infractions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/micro_service_registration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/radar-service" vcs="Git" />
+  </component>
+</project>

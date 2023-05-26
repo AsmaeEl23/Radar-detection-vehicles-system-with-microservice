@@ -1,0 +1,18 @@
+[submodule "eureka-discovery"]
+	path = eureka-discovery
+	url = https://github.com/AsmaeEl23/eureka-discovery.git
+[submodule "grpc_radar_client"]
+	path = grpc_radar_client
+	url = https://github.com/AsmaeEl23/grpc_radar_client.git
+[submodule "gateway-detection-vehicles"]
+	path = gateway-detection-vehicles
+	url = https://github.com/AsmaeEl23/gateway-detection-vehicles.git
+[submodule "micro-service-Infractions"]
+	path = micro-service-Infractions
+	url = https://github.com/AsmaeEl23/micro-service-Infractions.git
+[submodule "radar-service"]
+	path = radar-service
+	url = https://github.com/AsmaeEl23/radar-service.git
+[submodule "micro_service_registration"]
+	path = micro_service_registration
+	url = https://github.com/AsmaeEl23/micro_service_registration.git
